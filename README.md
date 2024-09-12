@@ -1,16 +1,7 @@
 # networking_fetch_data
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Day 14: Networking
+- Introduction to making HTTP requests using packages like http or Dio.
+- **Assignment**: Fetch data from a public API and display it in a list.
+- [API Data Fetch Code](./Week2/Assignment3)
+- ![API Data Fetch Screenshot](./Week2/Assignment3/screenshot.png)
